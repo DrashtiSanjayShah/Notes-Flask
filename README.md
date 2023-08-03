@@ -46,6 +46,16 @@ flask-notes-app/
 └── database.db
 ```
 
+<img width="1440" alt="Screenshot 2023-08-04 at 12 26 56 AM" src="https://github.com/DrashtiSanjayShah/Notes-Flask/assets/94853646/4b6c6f1c-5b05-40da-9d8a-c787977d6cbd">
+
+<img width="1440" alt="Screenshot 2023-08-04 at 12 29 37 AM" src="https://github.com/DrashtiSanjayShah/Notes-Flask/assets/94853646/cefeb996-99b2-4759-889a-a0f25f7de39d">
+
+<img width="1440" alt="Screenshot 2023-08-04 at 12 30 15 AM" src="https://github.com/DrashtiSanjayShah/Notes-Flask/assets/94853646/0b17423c-cada-43b1-ba78-e3382c4340b7">
+
+<img width="1440" alt="Screenshot 2023-08-04 at 12 30 59 AM" src="https://github.com/DrashtiSanjayShah/Notes-Flask/assets/94853646/86576414-8df1-40ee-9aca-5db15bb473bf">
+
+<img width="1440" alt="Screenshot 2023-08-04 at 12 31 30 AM" src="https://github.com/DrashtiSanjayShah/Notes-Flask/assets/94853646/abec9890-7ac8-4c06-9f93-8d25880bd7e1">
+
 
 ## Contributing
 
